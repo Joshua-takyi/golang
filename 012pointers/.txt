@@ -1,0 +1,2 @@
+* is used to create a pointer 
+whiles & is used to reference that variable storing the pointer
